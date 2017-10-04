@@ -1,4 +1,4 @@
-# cryptoinfo
+# CryptoVue
 
 > A Vue application for consulting Cryptocurrencies data. Made only for learning purposes.
 
