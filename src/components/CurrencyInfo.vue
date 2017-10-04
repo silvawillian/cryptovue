@@ -12,11 +12,6 @@
 <script>
 export default {
   props: ['currency'],
-  data () {
-    return {
-      currency: this.currency
-    }
-  },
   methods: {
     imageLink
   }
